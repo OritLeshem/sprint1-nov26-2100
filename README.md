@@ -1,6 +1,7 @@
 Minesweeper
 
-Link:
+Link: 
+https://oritleshem.github.io/sprint1-nov26-2100/
 
 Minesweeper is a famous game in which the goal is to uncover all the squares that do not contain mines without being "blown up" by clicking on a square with a mine underneath.
 
